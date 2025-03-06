@@ -1,2 +1,1 @@
-# python_repo
-contain my project when learning python
+Collections of code when learning python from inventwithpython.com website. It is from book written by Al Sweigart
